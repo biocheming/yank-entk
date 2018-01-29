@@ -1,8 +1,6 @@
 
 ## YANK: Alchemical Free Energy Protocols Supported by Ensemble Toolkit and RADICAL-Pilot
 
-See `examples` for how to run
-
 ## Installation: 
 ```
 virtualenv $HOME/venv
