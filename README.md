@@ -1,5 +1,5 @@
 
-## YANK: Alchemical Free Energy Protocols Supported by Ensemble Toolkit and RADICAL-Pilot
+## YANK: Alchemical Free Energy Protocols Supported by EnTK and RADICAL-Pilot
 
 ## Installation: 
 ```
